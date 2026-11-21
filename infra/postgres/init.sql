@@ -1,0 +1,2 @@
+CREATE DATABASE layanan_pengajuan_cuti;
+CREATE DATABASE layanan_persetujuan_cuti;
